@@ -1,0 +1,716 @@
+﻿country,country_code,nutslevel,nuts2016,regionname,type,year,party_abbreviation,party_english,party_native,partyfacts_id,partyvote,electorate,totalvote,validvote
+Spain,ES,2,ES530,Balears,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,33451,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,CUP-PR,NA,NA,NA,0,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,EAJ-PNV,NA,NA,NA,0,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,MAS PAIS,NA,NA,8395,10652,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,MES-ESQUERRA,NA,NA,NA,18295,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,OTHER,NA,NA,NA,1892,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,PACMA,NA,NA,3219,6207,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,PODEMOS-IU,NA,NA,NA,82225,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,103722,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,115567,807170,458592,454199.00
+Spain,ES,2,ES530,Balears,Parliament,2019,VOX,Voice,Vox,3218,77520,807170,458592,454199.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,CCA-PNC-NC,NA,NA,NA,48028,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,28018,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,CUP-PR,NA,NA,NA,0,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,EAJ-PNV,NA,NA,NA,0,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,8389,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,OTHER,NA,NA,NA,6106,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,PACMA,NA,NA,3219,5796,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,PODEMOS-IU,NA,NA,NA,74648,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,103375,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,141078,871728,489354,483928.00
+Spain,ES,2,ES701,Las Palmas,Parliament,2019,VOX,Voice,Vox,3218,64515,871728,489354,483928.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,CCA-PNC-NC,NA,NA,NA,76261,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,22979,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,CUP-PR,NA,NA,NA,0,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,EAJ-PNV,NA,NA,NA,0,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,6583,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,OTHER,NA,NA,NA,4170,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,PACMA,NA,NA,3219,6150,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,PODEMOS-IU,NA,NA,NA,64613,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,93434,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,132518,855138,468022,463579.00
+Spain,ES,2,ES702,Santa Cruz de Tenerife,Parliament,2019,VOX,Voice,Vox,3218,53491,855138,468022,463579.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,BNG,Galician Nationalist Block,Bloque Nacionalista Galego,1011,58135,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,28469,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,CUP-PR,NA,NA,NA,0,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,EAJ-PNV,NA,NA,NA,0,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,12619,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,OTHER,NA,NA,NA,8265,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,PODEMOS-EU,NA,NA,NA,77069,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,PODEMOS-IU,NA,NA,NA,0,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,187127,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,184178,1087839,620550,613494.00
+Spain,ES,3,ES111,A Coruna,Parliament,2019,VOX,Voice,Vox,3218,50325,1087839,620550,613494.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,BNG,Galician Nationalist Block,Bloque Nacionalista Galego,1011,12940,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,5811,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,CUP-PR,NA,NA,NA,0,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,EAJ-PNV,NA,NA,NA,0,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,OTHER,NA,NA,NA,2033,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,PODEMOS-EU,NA,NA,NA,16548,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,PODEMOS-IU,NA,NA,NA,0,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,68530,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,57537,344446,183141,180145.00
+Spain,ES,3,ES112,Lugo,Parliament,2019,VOX,Voice,Vox,3218,14652,344446,183141,180145.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,BNG,Galician Nationalist Block,Bloque Nacionalista Galego,1011,10256,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,6397,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,CUP-PR,NA,NA,NA,0,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,EAJ-PNV,NA,NA,NA,0,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,OTHER,NA,NA,NA,1780,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,PODEMOS-EU,NA,NA,NA,13573,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,PODEMOS-IU,NA,NA,NA,0,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,67580,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,56934,360302,173598,171471.00
+Spain,ES,3,ES113,Ourense,Parliament,2019,VOX,Voice,Vox,3218,13285,360302,173598,171471.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,BNG,Galician Nationalist Block,Bloque Nacionalista Galego,1011,39125,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,23984,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,CUP-PR,NA,NA,NA,0,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,EAJ-PNV,NA,NA,NA,0,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,10207,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,OTHER,NA,NA,NA,7041,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,PODEMOS-EU,NA,NA,NA,81041,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,PODEMOS-IU,NA,NA,NA,0,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,151961,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,166377,906111,530077,522997.00
+Spain,ES,3,ES114,Pontevedra,Parliament,2019,VOX,Voice,Vox,3218,38119,906111,530077,522997.00
+Spain,ES,3,ES120,Asturias,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,37374,972580,565231,559745.00
+Spain,ES,3,ES120,Asturias,Parliament,2019,CUP-PR,NA,NA,NA,0,972580,565231,559745.00
+Spain,ES,3,ES120,Asturias,Parliament,2019,EAJ-PNV,NA,NA,NA,0,972580,565231,559745.00
+Spain,ES,3,ES120,Asturias,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,972580,565231,559745.00
+Spain,ES,3,ES120,Asturias,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,972580,565231,559745.00
+Spain,ES,3,ES120,Asturias,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,972580,565231,559745.00
+Spain,ES,3,ES120,Asturias,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,972580,565231,559745.00
+Spain,ES,3,ES120,Asturias,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,12732,972580,565231,559745.00
+Spain,ES,3,ES120,Asturias,Parliament,2019,OTHER,NA,NA,NA,8353,972580,565231,559745.00
+Spain,ES,3,ES120,Asturias,Parliament,2019,PODEMOS-IU,NA,NA,NA,89301,972580,565231,559745.00
+Spain,ES,3,ES120,Asturias,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,129945,972580,565231,559745.00
+Spain,ES,3,ES120,Asturias,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,186211,972580,565231,559745.00
+Spain,ES,3,ES120,Asturias,Parliament,2019,VOX,Voice,Vox,3218,88788,972580,565231,559745.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,15609,501676,329821,327089.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,CUP-PR,NA,NA,NA,0,501676,329821,327089.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,EAJ-PNV,NA,NA,NA,0,501676,329821,327089.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,501676,329821,327089.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,501676,329821,327089.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,501676,329821,327089.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,501676,329821,327089.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,501676,329821,327089.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,OTHER,NA,NA,NA,3169,501676,329821,327089.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,PODEMOS-IU,NA,NA,NA,28376,501676,329821,327089.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,84583,501676,329821,327089.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,PRC,NA,NA,NA,68830,501676,329821,327089.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,76028,501676,329821,327089.00
+Spain,ES,3,ES130,Cantabria,Parliament,2019,VOX,Voice,Vox,3218,48827,501676,329821,327089.00
+Spain,ES,3,ES212,Guipuzcoa,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,3824,584461,384546,382868.00
+Spain,ES,3,ES212,Guipuzcoa,Parliament,2019,CUP-PR,NA,NA,NA,0,584461,384546,382868.00
+Spain,ES,3,ES212,Guipuzcoa,Parliament,2019,EAJ-PNV,NA,NA,NA,116761,584461,384546,382868.00
+Spain,ES,3,ES212,Guipuzcoa,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,584461,384546,382868.00
+Spain,ES,3,ES212,Guipuzcoa,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,98951,584461,384546,382868.00
+Spain,ES,3,ES212,Guipuzcoa,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,584461,384546,382868.00
+Spain,ES,3,ES212,Guipuzcoa,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,584461,384546,382868.00
+Spain,ES,3,ES212,Guipuzcoa,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,584461,384546,382868.00
+Spain,ES,3,ES212,Guipuzcoa,Parliament,2019,OTHER,NA,NA,NA,3827,584461,384546,382868.00
+Spain,ES,3,ES212,Guipuzcoa,Parliament,2019,PODEMOS-IU,NA,NA,NA,57363,584461,384546,382868.00
+Spain,ES,3,ES212,Guipuzcoa,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,23619,584461,384546,382868.00
+Spain,ES,3,ES212,Guipuzcoa,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,69342,584461,384546,382868.00
+Spain,ES,3,ES212,Guipuzcoa,Parliament,2019,VOX,Voice,Vox,3218,7274,584461,384546,382868.00
+Spain,ES,3,ES213,Vizcaya,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,6929,949598,633977,630312.00
+Spain,ES,3,ES213,Vizcaya,Parliament,2019,CUP-PR,NA,NA,NA,0,949598,633977,630312.00
+Spain,ES,3,ES213,Vizcaya,Parliament,2019,EAJ-PNV,NA,NA,NA,221979,949598,633977,630312.00
+Spain,ES,3,ES213,Vizcaya,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,949598,633977,630312.00
+Spain,ES,3,ES213,Vizcaya,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,94669,949598,633977,630312.00
+Spain,ES,3,ES213,Vizcaya,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,949598,633977,630312.00
+Spain,ES,3,ES213,Vizcaya,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,949598,633977,630312.00
+Spain,ES,3,ES213,Vizcaya,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,8542,949598,633977,630312.00
+Spain,ES,3,ES213,Vizcaya,Parliament,2019,OTHER,NA,NA,NA,5791,949598,633977,630312.00
+Spain,ES,3,ES213,Vizcaya,Parliament,2019,PODEMOS-IU,NA,NA,NA,97125,949598,633977,630312.00
+Spain,ES,3,ES213,Vizcaya,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,55621,949598,633977,630312.00
+Spain,ES,3,ES213,Vizcaya,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,120566,949598,633977,630312.00
+Spain,ES,3,ES213,Vizcaya,Parliament,2019,VOX,Voice,Vox,3218,15284,949598,633977,630312.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,0,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,CUP-PR,NA,NA,NA,0,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,EAJ-PNV,NA,NA,NA,0,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,56548,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,GBAI,NA,NA,NA,12709,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,NA+,NA,NA,NA,99078,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,OTHER,NA,NA,NA,4524,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,PODEMOS-IU,NA,NA,NA,55498,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,0,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,83734,512826,337996,334982.00
+Spain,ES,3,ES220,Navarra,Parliament,2019,VOX,Voice,Vox,3218,19440,512826,337996,334982.00
+Spain,ES,3,ES230,La Rioja,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,11673,250213,167549,164934.00
+Spain,ES,3,ES230,La Rioja,Parliament,2019,CUP-PR,NA,NA,NA,0,250213,167549,164934.00
+Spain,ES,3,ES230,La Rioja,Parliament,2019,EAJ-PNV,NA,NA,NA,0,250213,167549,164934.00
+Spain,ES,3,ES230,La Rioja,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,250213,167549,164934.00
+Spain,ES,3,ES230,La Rioja,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,250213,167549,164934.00
+Spain,ES,3,ES230,La Rioja,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,250213,167549,164934.00
+Spain,ES,3,ES230,La Rioja,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,250213,167549,164934.00
+Spain,ES,3,ES230,La Rioja,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,250213,167549,164934.00
+Spain,ES,3,ES230,La Rioja,Parliament,2019,OTHER,NA,NA,NA,2388,250213,167549,164934.00
+Spain,ES,3,ES230,La Rioja,Parliament,2019,PODEMOS-IU,NA,NA,NA,16273,250213,167549,164934.00
+Spain,ES,3,ES230,La Rioja,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,56450,250213,167549,164934.00
+Spain,ES,3,ES230,La Rioja,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,57485,250213,167549,164934.00
+Spain,ES,3,ES230,La Rioja,Parliament,2019,VOX,Voice,Vox,3218,18908,250213,167549,164934.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,CHA,NA,NA,NA,2000,172722,114791,113597.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,9244,172722,114791,113597.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,CUP-PR,NA,NA,NA,0,172722,114791,113597.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,EAJ-PNV,NA,NA,NA,0,172722,114791,113597.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,172722,114791,113597.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,172722,114791,113597.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,172722,114791,113597.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,172722,114791,113597.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,172722,114791,113597.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,OTHER,NA,NA,NA,1813,172722,114791,113597.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,PODEMOS-IU,NA,NA,NA,14035,172722,114791,113597.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,29804,172722,114791,113597.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,38101,172722,114791,113597.00
+Spain,ES,3,ES241,Huesca,Parliament,2019,VOX,Voice,Vox,3218,17237,172722,114791,113597.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,Â¡TERUEL EXISTE!,NA,NA,NA,19761,107467,74661,74130.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,3732,107467,74661,74130.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,CUP-PR,NA,NA,NA,0,107467,74661,74130.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,EAJ-PNV,NA,NA,NA,0,107467,74661,74130.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,107467,74661,74130.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,107467,74661,74130.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,107467,74661,74130.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,107467,74661,74130.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,107467,74661,74130.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,OTHER,NA,NA,NA,452,107467,74661,74130.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,PODEMOS-IU,NA,NA,NA,3982,107467,74661,74130.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,17520,107467,74661,74130.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,18934,107467,74661,74130.00
+Spain,ES,3,ES242,Teruel,Parliament,2019,VOX,Voice,Vox,3218,9346,107467,74661,74130.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,47001,739573,517639,513284.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,CUP-PR,NA,NA,NA,0,739573,517639,513284.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,EAJ-PNV,NA,NA,NA,0,739573,517639,513284.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,739573,517639,513284.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,739573,517639,513284.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,739573,517639,513284.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,739573,517639,513284.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,M PAIS-CHA-EQUO,NA,NA,NA,23196,739573,517639,513284.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,739573,517639,513284.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,OTHER,NA,NA,NA,9635,739573,517639,513284.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,PODEMOS-IU,NA,NA,NA,57875,739573,517639,513284.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,119909,739573,517639,513284.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,158326,739573,517639,513284.00
+Spain,ES,3,ES243,Zaragoza,Parliament,2019,VOX,Voice,Vox,3218,92353,739573,517639,513284.00
+Spain,ES,3,ES300,Madrid,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,323076,5088093,3591464,3563147.00
+Spain,ES,3,ES300,Madrid,Parliament,2019,CUP-PR,NA,NA,NA,0,5088093,3591464,3563147.00
+Spain,ES,3,ES300,Madrid,Parliament,2019,EAJ-PNV,NA,NA,NA,0,5088093,3591464,3563147.00
+Spain,ES,3,ES300,Madrid,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,5088093,3591464,3563147.00
+Spain,ES,3,ES300,Madrid,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,5088093,3591464,3563147.00
+Spain,ES,3,ES300,Madrid,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,5088093,3591464,3563147.00
+Spain,ES,3,ES300,Madrid,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,5088093,3591464,3563147.00
+Spain,ES,3,ES300,Madrid,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,201389,5088093,3591464,3563147.00
+Spain,ES,3,ES300,Madrid,Parliament,2019,OTHER,NA,NA,NA,47919,5088093,3591464,3563147.00
+Spain,ES,3,ES300,Madrid,Parliament,2019,PODEMOS-IU,NA,NA,NA,463629,5088093,3591464,3563147.00
+Spain,ES,3,ES300,Madrid,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,887474,5088093,3591464,3563147.00
+Spain,ES,3,ES300,Madrid,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,957401,5088093,3591464,3563147.00
+Spain,ES,3,ES300,Madrid,Parliament,2019,VOX,Voice,Vox,3218,653476,5088093,3591464,3563147.00
+Spain,ES,3,ES411,Avila,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,6119,136717,94793,93496.00
+Spain,ES,3,ES411,Avila,Parliament,2019,CUP-PR,NA,NA,NA,0,136717,94793,93496.00
+Spain,ES,3,ES411,Avila,Parliament,2019,EAJ-PNV,NA,NA,NA,0,136717,94793,93496.00
+Spain,ES,3,ES411,Avila,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,136717,94793,93496.00
+Spain,ES,3,ES411,Avila,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,136717,94793,93496.00
+Spain,ES,3,ES411,Avila,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,136717,94793,93496.00
+Spain,ES,3,ES411,Avila,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,136717,94793,93496.00
+Spain,ES,3,ES411,Avila,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,136717,94793,93496.00
+Spain,ES,3,ES411,Avila,Parliament,2019,OTHER,NA,NA,NA,833,136717,94793,93496.00
+Spain,ES,3,ES411,Avila,Parliament,2019,PODEMOS-IU,NA,NA,NA,6059,136717,94793,93496.00
+Spain,ES,3,ES411,Avila,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,32527,136717,94793,93496.00
+Spain,ES,3,ES411,Avila,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,24474,136717,94793,93496.00
+Spain,ES,3,ES411,Avila,Parliament,2019,VOX,Voice,Vox,3218,17313,136717,94793,93496.00
+Spain,ES,3,ES411,Avila,Parliament,2019,XAV,NA,NA,NA,5416,136717,94793,93496.00
+Spain,ES,3,ES412,Burgos,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,16214,298989,201664,198971.00
+Spain,ES,3,ES412,Burgos,Parliament,2019,CUP-PR,NA,NA,NA,0,298989,201664,198971.00
+Spain,ES,3,ES412,Burgos,Parliament,2019,EAJ-PNV,NA,NA,NA,0,298989,201664,198971.00
+Spain,ES,3,ES412,Burgos,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,298989,201664,198971.00
+Spain,ES,3,ES412,Burgos,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,298989,201664,198971.00
+Spain,ES,3,ES412,Burgos,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,298989,201664,198971.00
+Spain,ES,3,ES412,Burgos,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,298989,201664,198971.00
+Spain,ES,3,ES412,Burgos,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,298989,201664,198971.00
+Spain,ES,3,ES412,Burgos,Parliament,2019,OTHER,NA,NA,NA,3084,298989,201664,198971.00
+Spain,ES,3,ES412,Burgos,Parliament,2019,PODEMOS-IU,NA,NA,NA,22058,298989,201664,198971.00
+Spain,ES,3,ES412,Burgos,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,61228,298989,201664,198971.00
+Spain,ES,3,ES412,Burgos,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,64182,298989,201664,198971.00
+Spain,ES,3,ES412,Burgos,Parliament,2019,VOX,Voice,Vox,3218,29579,298989,201664,198971.00
+Spain,ES,3,ES413,Leon,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,16731,432073,265711,262679.00
+Spain,ES,3,ES413,Leon,Parliament,2019,CUP-PR,NA,NA,NA,0,432073,265711,262679.00
+Spain,ES,3,ES413,Leon,Parliament,2019,EAJ-PNV,NA,NA,NA,0,432073,265711,262679.00
+Spain,ES,3,ES413,Leon,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,432073,265711,262679.00
+Spain,ES,3,ES413,Leon,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,432073,265711,262679.00
+Spain,ES,3,ES413,Leon,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,432073,265711,262679.00
+Spain,ES,3,ES413,Leon,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,432073,265711,262679.00
+Spain,ES,3,ES413,Leon,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,432073,265711,262679.00
+Spain,ES,3,ES413,Leon,Parliament,2019,OTHER,NA,NA,NA,2720,432073,265711,262679.00
+Spain,ES,3,ES413,Leon,Parliament,2019,PODEMOS-IU,NA,NA,NA,27478,432073,265711,262679.00
+Spain,ES,3,ES413,Leon,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,74672,432073,265711,262679.00
+Spain,ES,3,ES413,Leon,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,87896,432073,265711,262679.00
+Spain,ES,3,ES413,Leon,Parliament,2019,UPL,NA,NA,NA,9588,432073,265711,262679.00
+Spain,ES,3,ES413,Leon,Parliament,2019,VOX,Voice,Vox,3218,40884,432073,265711,262679.00
+Spain,ES,3,ES414,Palencia,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,5937,141321,97038,95788.00
+Spain,ES,3,ES414,Palencia,Parliament,2019,CUP-PR,NA,NA,NA,0,141321,97038,95788.00
+Spain,ES,3,ES414,Palencia,Parliament,2019,EAJ-PNV,NA,NA,NA,0,141321,97038,95788.00
+Spain,ES,3,ES414,Palencia,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,141321,97038,95788.00
+Spain,ES,3,ES414,Palencia,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,141321,97038,95788.00
+Spain,ES,3,ES414,Palencia,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,141321,97038,95788.00
+Spain,ES,3,ES414,Palencia,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,141321,97038,95788.00
+Spain,ES,3,ES414,Palencia,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,141321,97038,95788.00
+Spain,ES,3,ES414,Palencia,Parliament,2019,OTHER,NA,NA,NA,1232,141321,97038,95788.00
+Spain,ES,3,ES414,Palencia,Parliament,2019,PODEMOS-IU,NA,NA,NA,7746,141321,97038,95788.00
+Spain,ES,3,ES414,Palencia,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,34195,141321,97038,95788.00
+Spain,ES,3,ES414,Palencia,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,31847,141321,97038,95788.00
+Spain,ES,3,ES414,Palencia,Parliament,2019,VOX,Voice,Vox,3218,13816,141321,97038,95788.00
+Spain,ES,3,ES415,Salamanca,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,16886,305536,197673,195170.00
+Spain,ES,3,ES415,Salamanca,Parliament,2019,CUP-PR,NA,NA,NA,0,305536,197673,195170.00
+Spain,ES,3,ES415,Salamanca,Parliament,2019,EAJ-PNV,NA,NA,NA,0,305536,197673,195170.00
+Spain,ES,3,ES415,Salamanca,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,305536,197673,195170.00
+Spain,ES,3,ES415,Salamanca,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,305536,197673,195170.00
+Spain,ES,3,ES415,Salamanca,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,305536,197673,195170.00
+Spain,ES,3,ES415,Salamanca,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,305536,197673,195170.00
+Spain,ES,3,ES415,Salamanca,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,305536,197673,195170.00
+Spain,ES,3,ES415,Salamanca,Parliament,2019,OTHER,NA,NA,NA,2569,305536,197673,195170.00
+Spain,ES,3,ES415,Salamanca,Parliament,2019,PODEMOS-IU,NA,NA,NA,13608,305536,197673,195170.00
+Spain,ES,3,ES415,Salamanca,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,67715,305536,197673,195170.00
+Spain,ES,3,ES415,Salamanca,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,57481,305536,197673,195170.00
+Spain,ES,3,ES415,Salamanca,Parliament,2019,VOX,Voice,Vox,3218,34929,305536,197673,195170.00
+Spain,ES,3,ES416,Segovia,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,6861,119492,86451,85039.00
+Spain,ES,3,ES416,Segovia,Parliament,2019,CUP-PR,NA,NA,NA,0,119492,86451,85039.00
+Spain,ES,3,ES416,Segovia,Parliament,2019,EAJ-PNV,NA,NA,NA,0,119492,86451,85039.00
+Spain,ES,3,ES416,Segovia,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,119492,86451,85039.00
+Spain,ES,3,ES416,Segovia,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,119492,86451,85039.00
+Spain,ES,3,ES416,Segovia,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,119492,86451,85039.00
+Spain,ES,3,ES416,Segovia,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,119492,86451,85039.00
+Spain,ES,3,ES416,Segovia,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,119492,86451,85039.00
+Spain,ES,3,ES416,Segovia,Parliament,2019,OTHER,NA,NA,NA,1413,119492,86451,85039.00
+Spain,ES,3,ES416,Segovia,Parliament,2019,PODEMOS-IU,NA,NA,NA,7901,119492,86451,85039.00
+Spain,ES,3,ES416,Segovia,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,28057,119492,86451,85039.00
+Spain,ES,3,ES416,Segovia,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,25233,119492,86451,85039.00
+Spain,ES,3,ES416,Segovia,Parliament,2019,VOX,Voice,Vox,3218,14569,119492,86451,85039.00
+Spain,ES,3,ES417,Soria,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,2670,76827,47248,46410.00
+Spain,ES,3,ES417,Soria,Parliament,2019,CUP-PR,NA,NA,NA,0,76827,47248,46410.00
+Spain,ES,3,ES417,Soria,Parliament,2019,EAJ-PNV,NA,NA,NA,0,76827,47248,46410.00
+Spain,ES,3,ES417,Soria,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,76827,47248,46410.00
+Spain,ES,3,ES417,Soria,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,76827,47248,46410.00
+Spain,ES,3,ES417,Soria,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,76827,47248,46410.00
+Spain,ES,3,ES417,Soria,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,76827,47248,46410.00
+Spain,ES,3,ES417,Soria,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,76827,47248,46410.00
+Spain,ES,3,ES417,Soria,Parliament,2019,OTHER,NA,NA,NA,482,76827,47248,46410.00
+Spain,ES,3,ES417,Soria,Parliament,2019,PODEMOS-IU,NA,NA,NA,3517,76827,47248,46410.00
+Spain,ES,3,ES417,Soria,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,15247,76827,47248,46410.00
+Spain,ES,3,ES417,Soria,Parliament,2019,PPSO,NA,NA,NA,1466,76827,47248,46410.00
+Spain,ES,3,ES417,Soria,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,16043,76827,47248,46410.00
+Spain,ES,3,ES417,Soria,Parliament,2019,VOX,Voice,Vox,3218,6264,76827,47248,46410.00
+Spain,ES,3,ES418,Valladolid,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,26947,432655,314787,311454.00
+Spain,ES,3,ES418,Valladolid,Parliament,2019,CUP-PR,NA,NA,NA,0,432655,314787,311454.00
+Spain,ES,3,ES418,Valladolid,Parliament,2019,EAJ-PNV,NA,NA,NA,0,432655,314787,311454.00
+Spain,ES,3,ES418,Valladolid,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,432655,314787,311454.00
+Spain,ES,3,ES418,Valladolid,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,432655,314787,311454.00
+Spain,ES,3,ES418,Valladolid,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,432655,314787,311454.00
+Spain,ES,3,ES418,Valladolid,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,432655,314787,311454.00
+Spain,ES,3,ES418,Valladolid,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,432655,314787,311454.00
+Spain,ES,3,ES418,Valladolid,Parliament,2019,OTHER,NA,NA,NA,4453,432655,314787,311454.00
+Spain,ES,3,ES418,Valladolid,Parliament,2019,PODEMOS-IU,NA,NA,NA,34313,432655,314787,311454.00
+Spain,ES,3,ES418,Valladolid,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,91857,432655,314787,311454.00
+Spain,ES,3,ES418,Valladolid,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,94384,432655,314787,311454.00
+Spain,ES,3,ES418,Valladolid,Parliament,2019,VOX,Voice,Vox,3218,56353,432655,314787,311454.00
+Spain,ES,3,ES419,Zamora,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,6835,168268,101334,99791.00
+Spain,ES,3,ES419,Zamora,Parliament,2019,CUP-PR,NA,NA,NA,0,168268,101334,99791.00
+Spain,ES,3,ES419,Zamora,Parliament,2019,EAJ-PNV,NA,NA,NA,0,168268,101334,99791.00
+Spain,ES,3,ES419,Zamora,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,168268,101334,99791.00
+Spain,ES,3,ES419,Zamora,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,168268,101334,99791.00
+Spain,ES,3,ES419,Zamora,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,168268,101334,99791.00
+Spain,ES,3,ES419,Zamora,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,168268,101334,99791.00
+Spain,ES,3,ES419,Zamora,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,168268,101334,99791.00
+Spain,ES,3,ES419,Zamora,Parliament,2019,OTHER,NA,NA,NA,1471,168268,101334,99791.00
+Spain,ES,3,ES419,Zamora,Parliament,2019,PODEMOS-IU,NA,NA,NA,7001,168268,101334,99791.00
+Spain,ES,3,ES419,Zamora,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,33495,168268,101334,99791.00
+Spain,ES,3,ES419,Zamora,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,32747,168268,101334,99791.00
+Spain,ES,3,ES419,Zamora,Parliament,2019,VOX,Voice,Vox,3218,17036,168268,101334,99791.00
+Spain,ES,3,ES421,Albacete,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,15947,309996,216917,214304.00
+Spain,ES,3,ES421,Albacete,Parliament,2019,CUP-PR,NA,NA,NA,0,309996,216917,214304.00
+Spain,ES,3,ES421,Albacete,Parliament,2019,EAJ-PNV,NA,NA,NA,0,309996,216917,214304.00
+Spain,ES,3,ES421,Albacete,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,309996,216917,214304.00
+Spain,ES,3,ES421,Albacete,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,309996,216917,214304.00
+Spain,ES,3,ES421,Albacete,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,309996,216917,214304.00
+Spain,ES,3,ES421,Albacete,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,309996,216917,214304.00
+Spain,ES,3,ES421,Albacete,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,309996,216917,214304.00
+Spain,ES,3,ES421,Albacete,Parliament,2019,OTHER,NA,NA,NA,2775,309996,216917,214304.00
+Spain,ES,3,ES421,Albacete,Parliament,2019,PODEMOS-IU,NA,NA,NA,20771,309996,216917,214304.00
+Spain,ES,3,ES421,Albacete,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,58835,309996,216917,214304.00
+Spain,ES,3,ES421,Albacete,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,69848,309996,216917,214304.00
+Spain,ES,3,ES421,Albacete,Parliament,2019,VOX,Voice,Vox,3218,44306,309996,216917,214304.00
+Spain,ES,3,ES422,Ciudad Real,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,18337,395785,272470,268594.00
+Spain,ES,3,ES422,Ciudad Real,Parliament,2019,CUP-PR,NA,NA,NA,0,395785,272470,268594.00
+Spain,ES,3,ES422,Ciudad Real,Parliament,2019,EAJ-PNV,NA,NA,NA,0,395785,272470,268594.00
+Spain,ES,3,ES422,Ciudad Real,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,395785,272470,268594.00
+Spain,ES,3,ES422,Ciudad Real,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,395785,272470,268594.00
+Spain,ES,3,ES422,Ciudad Real,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,395785,272470,268594.00
+Spain,ES,3,ES422,Ciudad Real,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,395785,272470,268594.00
+Spain,ES,3,ES422,Ciudad Real,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,395785,272470,268594.00
+Spain,ES,3,ES422,Ciudad Real,Parliament,2019,OTHER,NA,NA,NA,2719,395785,272470,268594.00
+Spain,ES,3,ES422,Ciudad Real,Parliament,2019,PODEMOS-IU,NA,NA,NA,22250,395785,272470,268594.00
+Spain,ES,3,ES422,Ciudad Real,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,74835,395785,272470,268594.00
+Spain,ES,3,ES422,Ciudad Real,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,92046,395785,272470,268594.00
+Spain,ES,3,ES422,Ciudad Real,Parliament,2019,VOX,Voice,Vox,3218,56050,395785,272470,268594.00
+Spain,ES,3,ES423,Cuenca,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,5094,154441,110537,109119.00
+Spain,ES,3,ES423,Cuenca,Parliament,2019,CUP-PR,NA,NA,NA,0,154441,110537,109119.00
+Spain,ES,3,ES423,Cuenca,Parliament,2019,EAJ-PNV,NA,NA,NA,0,154441,110537,109119.00
+Spain,ES,3,ES423,Cuenca,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,154441,110537,109119.00
+Spain,ES,3,ES423,Cuenca,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,154441,110537,109119.00
+Spain,ES,3,ES423,Cuenca,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,154441,110537,109119.00
+Spain,ES,3,ES423,Cuenca,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,154441,110537,109119.00
+Spain,ES,3,ES423,Cuenca,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,154441,110537,109119.00
+Spain,ES,3,ES423,Cuenca,Parliament,2019,OTHER,NA,NA,NA,995,154441,110537,109119.00
+Spain,ES,3,ES423,Cuenca,Parliament,2019,PODEMOS-IU,NA,NA,NA,7529,154441,110537,109119.00
+Spain,ES,3,ES423,Cuenca,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,33721,154441,110537,109119.00
+Spain,ES,3,ES423,Cuenca,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,40670,154441,110537,109119.00
+Spain,ES,3,ES423,Cuenca,Parliament,2019,VOX,Voice,Vox,3218,20108,154441,110537,109119.00
+Spain,ES,3,ES424,Guadalajara,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,10169,187371,133796,132154.00
+Spain,ES,3,ES424,Guadalajara,Parliament,2019,CUP-PR,NA,NA,NA,0,187371,133796,132154.00
+Spain,ES,3,ES424,Guadalajara,Parliament,2019,EAJ-PNV,NA,NA,NA,0,187371,133796,132154.00
+Spain,ES,3,ES424,Guadalajara,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,187371,133796,132154.00
+Spain,ES,3,ES424,Guadalajara,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,187371,133796,132154.00
+Spain,ES,3,ES424,Guadalajara,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,187371,133796,132154.00
+Spain,ES,3,ES424,Guadalajara,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,187371,133796,132154.00
+Spain,ES,3,ES424,Guadalajara,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,187371,133796,132154.00
+Spain,ES,3,ES424,Guadalajara,Parliament,2019,OTHER,NA,NA,NA,2647,187371,133796,132154.00
+Spain,ES,3,ES424,Guadalajara,Parliament,2019,PODEMOS-IU,NA,NA,NA,14897,187371,133796,132154.00
+Spain,ES,3,ES424,Guadalajara,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,30443,187371,133796,132154.00
+Spain,ES,3,ES424,Guadalajara,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,41167,187371,133796,132154.00
+Spain,ES,3,ES424,Guadalajara,Parliament,2019,VOX,Voice,Vox,3218,31683,187371,133796,132154.00
+Spain,ES,3,ES425,Toledo,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,24871,525752,368619,363474.00
+Spain,ES,3,ES425,Toledo,Parliament,2019,CUP-PR,NA,NA,NA,0,525752,368619,363474.00
+Spain,ES,3,ES425,Toledo,Parliament,2019,EAJ-PNV,NA,NA,NA,0,525752,368619,363474.00
+Spain,ES,3,ES425,Toledo,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,525752,368619,363474.00
+Spain,ES,3,ES425,Toledo,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,525752,368619,363474.00
+Spain,ES,3,ES425,Toledo,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,525752,368619,363474.00
+Spain,ES,3,ES425,Toledo,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,525752,368619,363474.00
+Spain,ES,3,ES425,Toledo,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,525752,368619,363474.00
+Spain,ES,3,ES425,Toledo,Parliament,2019,OTHER,NA,NA,NA,4396,525752,368619,363474.00
+Spain,ES,3,ES425,Toledo,Parliament,2019,PODEMOS-IU,NA,NA,NA,34837,525752,368619,363474.00
+Spain,ES,3,ES425,Toledo,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,94378,525752,368619,363474.00
+Spain,ES,3,ES425,Toledo,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,116282,525752,368619,363474.00
+Spain,ES,3,ES425,Toledo,Parliament,2019,VOX,Voice,Vox,3218,86049,525752,368619,363474.00
+Spain,ES,3,ES431,Badajoz,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,29520,554994,376940,370159.00
+Spain,ES,3,ES431,Badajoz,Parliament,2019,CUP-PR,NA,NA,NA,0,554994,376940,370159.00
+Spain,ES,3,ES431,Badajoz,Parliament,2019,EAJ-PNV,NA,NA,NA,0,554994,376940,370159.00
+Spain,ES,3,ES431,Badajoz,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,554994,376940,370159.00
+Spain,ES,3,ES431,Badajoz,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,554994,376940,370159.00
+Spain,ES,3,ES431,Badajoz,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,554994,376940,370159.00
+Spain,ES,3,ES431,Badajoz,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,554994,376940,370159.00
+Spain,ES,3,ES431,Badajoz,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,554994,376940,370159.00
+Spain,ES,3,ES431,Badajoz,Parliament,2019,OTHER,NA,NA,NA,3999,554994,376940,370159.00
+Spain,ES,3,ES431,Badajoz,Parliament,2019,PODEMOS-IU,NA,NA,NA,33971,554994,376940,370159.00
+Spain,ES,3,ES431,Badajoz,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,92742,554994,376940,370159.00
+Spain,ES,3,ES431,Badajoz,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,142312,554994,376940,370159.00
+Spain,ES,3,ES431,Badajoz,Parliament,2019,VOX,Voice,Vox,3218,64016,554994,376940,370159.00
+Spain,ES,3,ES432,Caceres,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,15533,344445,227621,223257.00
+Spain,ES,3,ES432,Caceres,Parliament,2019,CUP-PR,NA,NA,NA,0,344445,227621,223257.00
+Spain,ES,3,ES432,Caceres,Parliament,2019,EAJ-PNV,NA,NA,NA,0,344445,227621,223257.00
+Spain,ES,3,ES432,Caceres,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,344445,227621,223257.00
+Spain,ES,3,ES432,Caceres,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,344445,227621,223257.00
+Spain,ES,3,ES432,Caceres,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,344445,227621,223257.00
+Spain,ES,3,ES432,Caceres,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,344445,227621,223257.00
+Spain,ES,3,ES432,Caceres,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,344445,227621,223257.00
+Spain,ES,3,ES432,Caceres,Parliament,2019,OTHER,NA,NA,NA,3260,344445,227621,223257.00
+Spain,ES,3,ES432,Caceres,Parliament,2019,PODEMOS-IU,NA,NA,NA,20101,344445,227621,223257.00
+Spain,ES,3,ES432,Caceres,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,61527,344445,227621,223257.00
+Spain,ES,3,ES432,Caceres,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,85135,344445,227621,223257.00
+Spain,ES,3,ES432,Caceres,Parliament,2019,VOX,Voice,Vox,3218,35807,344445,227621,223257.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,174124,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,CUP-PR,NA,NA,NA,179041,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,EAJ-PNV,NA,NA,NA,0,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,452482,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,618909,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,343931,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,MAS PAIS,NA,NA,8395,41826,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,OTHER,NA,NA,NA,13554,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,PACMA,NA,NA,3219,34752,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,PODEMOS-IU,NA,NA,NA,0,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,225645,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,638319,4201151,2942354,2927755.00
+Spain,ES,3,ES511,Barcelona,Parliament,2019,VOX,Voice,Vox,3218,184715,4201151,2942354,2927755.00
+Spain,ES,3,ES512,Girona,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,13869,524978,357801,355702.00
+Spain,ES,3,ES512,Girona,Parliament,2019,CUP-PR,NA,NA,NA,31703,524978,357801,355702.00
+Spain,ES,3,ES512,Girona,Parliament,2019,EAJ-PNV,NA,NA,NA,0,524978,357801,355702.00
+Spain,ES,3,ES512,Girona,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,33710,524978,357801,355702.00
+Spain,ES,3,ES512,Girona,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,524978,357801,355702.00
+Spain,ES,3,ES512,Girona,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,91932,524978,357801,355702.00
+Spain,ES,3,ES512,Girona,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,88060,524978,357801,355702.00
+Spain,ES,3,ES512,Girona,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,524978,357801,355702.00
+Spain,ES,3,ES512,Girona,Parliament,2019,OTHER,NA,NA,NA,1736,524978,357801,355702.00
+Spain,ES,3,ES512,Girona,Parliament,2019,PACMA,NA,NA,3219,3724,524978,357801,355702.00
+Spain,ES,3,ES512,Girona,Parliament,2019,PODEMOS-IU,NA,NA,NA,0,524978,357801,355702.00
+Spain,ES,3,ES512,Girona,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,17449,524978,357801,355702.00
+Spain,ES,3,ES512,Girona,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,52723,524978,357801,355702.00
+Spain,ES,3,ES512,Girona,Parliament,2019,VOX,Voice,Vox,3218,18489,524978,357801,355702.00
+Spain,ES,3,ES513,Lleida,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,7128,314425,208731,207356.00
+Spain,ES,3,ES513,Lleida,Parliament,2019,CUP-PR,NA,NA,NA,14098,314425,208731,207356.00
+Spain,ES,3,ES513,Lleida,Parliament,2019,EAJ-PNV,NA,NA,NA,0,314425,208731,207356.00
+Spain,ES,3,ES513,Lleida,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,16337,314425,208731,207356.00
+Spain,ES,3,ES513,Lleida,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,314425,208731,207356.00
+Spain,ES,3,ES513,Lleida,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,65236,314425,208731,207356.00
+Spain,ES,3,ES513,Lleida,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,46773,314425,208731,207356.00
+Spain,ES,3,ES513,Lleida,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,314425,208731,207356.00
+Spain,ES,3,ES513,Lleida,Parliament,2019,OTHER,NA,NA,NA,2252,314425,208731,207356.00
+Spain,ES,3,ES513,Lleida,Parliament,2019,PODEMOS-IU,NA,NA,NA,0,314425,208731,207356.00
+Spain,ES,3,ES513,Lleida,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,14697,314425,208731,207356.00
+Spain,ES,3,ES513,Lleida,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,29983,314425,208731,207356.00
+Spain,ES,3,ES513,Lleida,Parliament,2019,VOX,Voice,Vox,3218,9312,314425,208731,207356.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,22814,574866,388088,385419.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,CUP-PR,NA,NA,NA,22129,574866,388088,385419.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,EAJ-PNV,NA,NA,NA,0,574866,388088,385419.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,46644,574866,388088,385419.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,574866,388088,385419.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,98782,574866,388088,385419.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,51461,574866,388088,385419.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,574866,388088,385419.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,OTHER,NA,NA,NA,1598,574866,388088,385419.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,PACMA,NA,NA,3219,4588,574866,388088,385419.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,PODEMOS-IU,NA,NA,NA,0,574866,388088,385419.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,29923,574866,388088,385419.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,73641,574866,388088,385419.00
+Spain,ES,3,ES514,Tarragona,Parliament,2019,VOX,Voice,Vox,3218,31124,574866,388088,385419.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,69143,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,CUP-PR,NA,NA,NA,0,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,EAJ-PNV,NA,NA,NA,0,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,MES COMPROMIS,NA,NA,NA,35612,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,OTHER,NA,NA,NA,7326,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,PACMA,NA,NA,3219,9417,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,PODEMOS-IU,NA,NA,NA,108533,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,207310,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,240202,1276691,860050,851716.00
+Spain,ES,3,ES521,Alicante / Alacant,Parliament,2019,VOX,Voice,Vox,3218,167395,1276691,860050,851716.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,20302,420741,297492,294469.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,CUP-PR,NA,NA,NA,0,420741,297492,294469.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,EAJ-PNV,NA,NA,NA,0,420741,297492,294469.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,420741,297492,294469.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,420741,297492,294469.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,420741,297492,294469.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,420741,297492,294469.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,420741,297492,294469.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,MES COMPROMIS,NA,NA,NA,18140,420741,297492,294469.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,OTHER,NA,NA,NA,5435,420741,297492,294469.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,PODEMOS-IU,NA,NA,NA,39251,420741,297492,294469.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,70176,420741,297492,294469.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,84078,420741,297492,294469.00
+Spain,ES,3,ES522,Castellon / Castello,Parliament,2019,VOX,Voice,Vox,3218,54849,420741,297492,294469.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,106820,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,CUP-PR,NA,NA,NA,0,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,EAJ-PNV,NA,NA,NA,0,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,MES COMPROMIS,NA,NA,NA,122535,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,OTHER,NA,NA,NA,14200,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,PACMA,NA,NA,3219,15395,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,PODEMOS-IU,NA,NA,NA,191812,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,306929,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,375879,1970196,1402405,1390258.00
+Spain,ES,3,ES523,Valencia / Valencia,Parliament,2019,VOX,Voice,Vox,3218,245890,1970196,1402405,1390258.00
+Spain,ES,3,ES611,Almeria,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,22835,502627,305414,302424.00
+Spain,ES,3,ES611,Almeria,Parliament,2019,CUP-PR,NA,NA,NA,0,502627,305414,302424.00
+Spain,ES,3,ES611,Almeria,Parliament,2019,EAJ-PNV,NA,NA,NA,0,502627,305414,302424.00
+Spain,ES,3,ES611,Almeria,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,502627,305414,302424.00
+Spain,ES,3,ES611,Almeria,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,502627,305414,302424.00
+Spain,ES,3,ES611,Almeria,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,502627,305414,302424.00
+Spain,ES,3,ES611,Almeria,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,502627,305414,302424.00
+Spain,ES,3,ES611,Almeria,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,502627,305414,302424.00
+Spain,ES,3,ES611,Almeria,Parliament,2019,OTHER,NA,NA,NA,4447,502627,305414,302424.00
+Spain,ES,3,ES611,Almeria,Parliament,2019,PODEMOS-IU,NA,NA,NA,24400,502627,305414,302424.00
+Spain,ES,3,ES611,Almeria,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,78072,502627,305414,302424.00
+Spain,ES,3,ES611,Almeria,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,89295,502627,305414,302424.00
+Spain,ES,3,ES611,Almeria,Parliament,2019,VOX,Voice,Vox,3218,80714,502627,305414,302424.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,55490,1002295,624195,616079.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,CUP-PR,NA,NA,NA,0,1002295,624195,616079.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,EAJ-PNV,NA,NA,NA,0,1002295,624195,616079.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,1002295,624195,616079.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,1002295,624195,616079.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,1002295,624195,616079.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,1002295,624195,616079.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,11316,1002295,624195,616079.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,OTHER,NA,NA,NA,7509,1002295,624195,616079.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,PACMA,NA,NA,3219,8437,1002295,624195,616079.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,PODEMOS-IU,NA,NA,NA,93541,1002295,624195,616079.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,111089,1002295,624195,616079.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,188271,1002295,624195,616079.00
+Spain,ES,3,ES612,Cadiz,Parliament,2019,VOX,Voice,Vox,3218,131205,1002295,624195,616079.00
+Spain,ES,3,ES613,Cordoba,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,36229,648341,451775,444376.00
+Spain,ES,3,ES613,Cordoba,Parliament,2019,CUP-PR,NA,NA,NA,0,648341,451775,444376.00
+Spain,ES,3,ES613,Cordoba,Parliament,2019,EAJ-PNV,NA,NA,NA,0,648341,451775,444376.00
+Spain,ES,3,ES613,Cordoba,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,648341,451775,444376.00
+Spain,ES,3,ES613,Cordoba,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,648341,451775,444376.00
+Spain,ES,3,ES613,Cordoba,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,648341,451775,444376.00
+Spain,ES,3,ES613,Cordoba,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,648341,451775,444376.00
+Spain,ES,3,ES613,Cordoba,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,648341,451775,444376.00
+Spain,ES,3,ES613,Cordoba,Parliament,2019,OTHER,NA,NA,NA,8679,648341,451775,444376.00
+Spain,ES,3,ES613,Cordoba,Parliament,2019,PODEMOS-IU,NA,NA,NA,64769,648341,451775,444376.00
+Spain,ES,3,ES613,Cordoba,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,99999,648341,451775,444376.00
+Spain,ES,3,ES613,Cordoba,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,146761,648341,451775,444376.00
+Spain,ES,3,ES613,Cordoba,Parliament,2019,VOX,Voice,Vox,3218,82534,648341,451775,444376.00
+Spain,ES,3,ES614,Granada,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,37772,755007,490902,482779.00
+Spain,ES,3,ES614,Granada,Parliament,2019,CUP-PR,NA,NA,NA,0,755007,490902,482779.00
+Spain,ES,3,ES614,Granada,Parliament,2019,EAJ-PNV,NA,NA,NA,0,755007,490902,482779.00
+Spain,ES,3,ES614,Granada,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,755007,490902,482779.00
+Spain,ES,3,ES614,Granada,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,755007,490902,482779.00
+Spain,ES,3,ES614,Granada,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,755007,490902,482779.00
+Spain,ES,3,ES614,Granada,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,755007,490902,482779.00
+Spain,ES,3,ES614,Granada,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,8629,755007,490902,482779.00
+Spain,ES,3,ES614,Granada,Parliament,2019,OTHER,NA,NA,NA,7209,755007,490902,482779.00
+Spain,ES,3,ES614,Granada,Parliament,2019,PODEMOS-IU,NA,NA,NA,59331,755007,490902,482779.00
+Spain,ES,3,ES614,Granada,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,105192,755007,490902,482779.00
+Spain,ES,3,ES614,Granada,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,160190,755007,490902,482779.00
+Spain,ES,3,ES614,Granada,Parliament,2019,VOX,Voice,Vox,3218,99928,755007,490902,482779.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,18382,399019,255329,250681.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,CUP-PR,NA,NA,NA,0,399019,255329,250681.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,EAJ-PNV,NA,NA,NA,0,399019,255329,250681.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,399019,255329,250681.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,399019,255329,250681.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,399019,255329,250681.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,399019,255329,250681.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,399019,255329,250681.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,OTHER,NA,NA,NA,2437,399019,255329,250681.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,PACMA,NA,NA,3219,2535,399019,255329,250681.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,PODEMOS-IU,NA,NA,NA,30389,399019,255329,250681.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,49452,399019,255329,250681.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,91656,399019,255329,250681.00
+Spain,ES,3,ES615,Huelva,Parliament,2019,VOX,Voice,Vox,3218,52485,399019,255329,250681.00
+Spain,ES,3,ES616,Jaen,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,24816,526659,371043,365106.00
+Spain,ES,3,ES616,Jaen,Parliament,2019,CUP-PR,NA,NA,NA,0,526659,371043,365106.00
+Spain,ES,3,ES616,Jaen,Parliament,2019,EAJ-PNV,NA,NA,NA,0,526659,371043,365106.00
+Spain,ES,3,ES616,Jaen,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,526659,371043,365106.00
+Spain,ES,3,ES616,Jaen,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,526659,371043,365106.00
+Spain,ES,3,ES616,Jaen,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,526659,371043,365106.00
+Spain,ES,3,ES616,Jaen,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,526659,371043,365106.00
+Spain,ES,3,ES616,Jaen,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,526659,371043,365106.00
+Spain,ES,3,ES616,Jaen,Parliament,2019,OTHER,NA,NA,NA,5225,526659,371043,365106.00
+Spain,ES,3,ES616,Jaen,Parliament,2019,PODEMOS-IU,NA,NA,NA,35962,526659,371043,365106.00
+Spain,ES,3,ES616,Jaen,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,82055,526659,371043,365106.00
+Spain,ES,3,ES616,Jaen,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,141737,526659,371043,365106.00
+Spain,ES,3,ES616,Jaen,Parliament,2019,VOX,Voice,Vox,3218,71950,526659,371043,365106.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,66995,1197688,766819,756721.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,CUP-PR,NA,NA,NA,0,1197688,766819,756721.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,EAJ-PNV,NA,NA,NA,0,1197688,766819,756721.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,1197688,766819,756721.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,1197688,766819,756721.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,1197688,766819,756721.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,1197688,766819,756721.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,14112,1197688,766819,756721.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,OTHER,NA,NA,NA,6078,1197688,766819,756721.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,PACMA,NA,NA,3219,11089,1197688,766819,756721.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,PODEMOS-IU,NA,NA,NA,97801,1197688,766819,756721.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,163177,1197688,766819,756721.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,226831,1197688,766819,756721.00
+Spain,ES,3,ES617,Malaga,Parliament,2019,VOX,Voice,Vox,3218,162280,1197688,766819,756721.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,83575,1547744,1071247,1053518.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,CUP-PR,NA,NA,NA,0,1547744,1071247,1053518.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,EAJ-PNV,NA,NA,NA,0,1547744,1071247,1053518.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,1547744,1071247,1053518.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,1547744,1071247,1053518.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,1547744,1071247,1053518.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,1547744,1071247,1053518.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,22388,1547744,1071247,1053518.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,OTHER,NA,NA,NA,10928,1547744,1071247,1053518.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,PACMA,NA,NA,3219,12035,1547744,1071247,1053518.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,PODEMOS-IU,NA,NA,NA,153435,1547744,1071247,1053518.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,188166,1547744,1071247,1053518.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,380385,1547744,1071247,1053518.00
+Spain,ES,3,ES618,Sevilla,Parliament,2019,VOX,Voice,Vox,3218,188813,1547744,1071247,1053518.00
+Spain,ES,3,ES620,Murcia,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,53201,1061841,722345,714927.00
+Spain,ES,3,ES620,Murcia,Parliament,2019,CUP-PR,NA,NA,NA,0,1061841,722345,714927.00
+Spain,ES,3,ES620,Murcia,Parliament,2019,EAJ-PNV,NA,NA,NA,0,1061841,722345,714927.00
+Spain,ES,3,ES620,Murcia,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,1061841,722345,714927.00
+Spain,ES,3,ES620,Murcia,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,1061841,722345,714927.00
+Spain,ES,3,ES620,Murcia,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,1061841,722345,714927.00
+Spain,ES,3,ES620,Murcia,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,1061841,722345,714927.00
+Spain,ES,3,ES620,Murcia,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,13439,1061841,722345,714927.00
+Spain,ES,3,ES620,Murcia,Parliament,2019,OTHER,NA,NA,NA,13090,1061841,722345,714927.00
+Spain,ES,3,ES620,Murcia,Parliament,2019,PODEMOS-IU,NA,NA,NA,63461,1061841,722345,714927.00
+Spain,ES,3,ES620,Murcia,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,189500,1061841,722345,714927.00
+Spain,ES,3,ES620,Murcia,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,177154,1061841,722345,714927.00
+Spain,ES,3,ES620,Murcia,Parliament,2019,VOX,Voice,Vox,3218,199829,1061841,722345,714927.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,1138,62513,33746,33395.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,CUP-PR,NA,NA,NA,0,62513,33746,33395.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,EAJ-PNV,NA,NA,NA,0,62513,33746,33395.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,62513,33746,33395.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,62513,33746,33395.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,62513,33746,33395.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,62513,33746,33395.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,62513,33746,33395.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,MDYC,NA,NA,NA,819,62513,33746,33395.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,OTHER,NA,NA,NA,168,62513,33746,33395.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,PODEMOS-IU,NA,NA,NA,1300,62513,33746,33395.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,7439,62513,33746,33395.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,10455,62513,33746,33395.00
+Spain,ES,3,ES630,Ceuta,Parliament,2019,VOX,Voice,Vox,3218,11752,62513,33746,33395.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,CPM,NA,NA,NA,8955,59497,31172,30932.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,917,59497,31172,30932.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,CUP-PR,NA,NA,NA,0,59497,31172,30932.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,EAJ-PNV,NA,NA,NA,0,59497,31172,30932.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,59497,31172,30932.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,0,59497,31172,30932.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,59497,31172,30932.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,59497,31172,30932.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,59497,31172,30932.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,OTHER,NA,NA,NA,151,59497,31172,30932.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,PODEMOS-IU,NA,NA,NA,809,59497,31172,30932.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,9136,59497,31172,30932.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,5087,59497,31172,30932.00
+Spain,ES,3,ES640,Melilla,Parliament,2019,VOX,Voice,Vox,3218,5692,59497,31172,30932.00
+Spain,ES,3,ES211,Alava,Parliament,2019,CS,Citizens -- Party of the Citizenry,Ciudadanos - Partido de la Ciudadania,3217,2526,258495,172199,170855.00
+Spain,ES,3,ES211,Alava,Parliament,2019,CUP-PR,NA,NA,NA,0,258495,172199,170855.00
+Spain,ES,3,ES211,Alava,Parliament,2019,EAJ-PNV,NA,NA,NA,40262,258495,172199,170855.00
+Spain,ES,3,ES211,Alava,Parliament,2019,ECP-GUANYEM EL CANVI,NA,NA,NA,0,258495,172199,170855.00
+Spain,ES,3,ES211,Alava,Parliament,2019,EH BILDU,Basque Country Unite,Euskal Herria Bildu / Reunir Euskal Herria,5668,27453,258495,172199,170855.00
+Spain,ES,3,ES211,Alava,Parliament,2019,ERC-SOBIRANISTES,NA,NA,NA,0,258495,172199,170855.00
+Spain,ES,3,ES211,Alava,Parliament,2019,JXCAT-JUNTS,Together for Catalonia,Junts per Catalunya,7421,0,258495,172199,170855.00
+Spain,ES,3,ES211,Alava,Parliament,2019,MAS PAIS-EQUO,NA,NA,NA,0,258495,172199,170855.00
+Spain,ES,3,ES211,Alava,Parliament,2019,OTHER,NA,NA,NA,2102,258495,172199,170855.00
+Spain,ES,3,ES211,Alava,Parliament,2019,PODEMOS-IU,NA,NA,NA,28186,258495,172199,170855.00
+Spain,ES,3,ES211,Alava,Parliament,2019,PP,People's Alliance-Party / People's Party,Alianza-Partido Popular / Partido Popular,441,25506,258495,172199,170855.00
+Spain,ES,3,ES211,Alava,Parliament,2019,PSOE,Spanish Socialist Workers Party,Partido Socialista Obrero Espanol,1338,37488,258495,172199,170855.00
+Spain,ES,3,ES211,Alava,Parliament,2019,VOX,Voice,Vox,3218,6421,258495,172199,170855.00
